@@ -5,6 +5,7 @@ import numpy as np
 import os
 
 os.system("pip install speechrecognition sounddevice")
+os.system("cls")
 
 # Morse code dictionary
 morse_code_dict = {
